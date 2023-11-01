@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemanticKernelConsole", "SemanticKernelConsole\SemanticKernelConsole.csproj", "{06E3C2CA-93E8-4D0F-8C05-75D664256A57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDKLab", "SDKLab\SDKLab.csproj", "{C0BF97AB-6899-448E-807E-2B70DCDD8259}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorEmbedding", "..\..\Projects\AI\Code\cognitive-search-vector-pr\demo-dotnet\code\VectorEmbedding.csproj", "{F7B78BD5-CE86-4076-95D9-6C59A71D0AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QnA", "QnA\QnA.csproj", "{1C2CB108-7F10-43C9-A23A-66C2F894F302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E3C2CA-93E8-4D0F-8C05-75D664256A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E3C2CA-93E8-4D0F-8C05-75D664256A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E3C2CA-93E8-4D0F-8C05-75D664256A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E3C2CA-93E8-4D0F-8C05-75D664256A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BF97AB-6899-448E-807E-2B70DCDD8259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BF97AB-6899-448E-807E-2B70DCDD8259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BF97AB-6899-448E-807E-2B70DCDD8259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BF97AB-6899-448E-807E-2B70DCDD8259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B78BD5-CE86-4076-95D9-6C59A71D0AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B78BD5-CE86-4076-95D9-6C59A71D0AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B78BD5-CE86-4076-95D9-6C59A71D0AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B78BD5-CE86-4076-95D9-6C59A71D0AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2CB108-7F10-43C9-A23A-66C2F894F302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2CB108-7F10-43C9-A23A-66C2F894F302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2CB108-7F10-43C9-A23A-66C2F894F302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2CB108-7F10-43C9-A23A-66C2F894F302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D347710-463D-463C-9642-D23DE2A37109}
+	EndGlobalSection
+EndGlobal
